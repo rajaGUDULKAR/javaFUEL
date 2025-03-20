@@ -132,3 +132,11 @@ public class note {
 //is a pre-Define class tree-set in java.util.package
 //it introduce from jdk1.2
 // Tree hashset it contains compareTo() method
+
+//1. Finding a lower value in the stock into the market system. (Create a satta-matta app)
+//2. Finding available meeting room slot(Time management system) e.g 9 O clock, 10:30 , 1pm and 3 pm.
+//3. Custom sorting in TreeSet of Employee class which is store the data of age and name and sort the data with the help of TreeSet.
+//4. Sorting and retriving exam score with a range.
+        //University needs to store student score and retrive only those of specific range.
+//5. Handling realtime leaderboard in a game system.
+        // a gaming platform track top score and must display in sorted order.
